@@ -1,7 +1,8 @@
 My Grocery List
 - Apples
 - Bananas
-- Potato Chips
+- Potato 
+- Chips
 - Eggs
 - Butter
 - Sugar
